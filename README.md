@@ -10,6 +10,6 @@ This repository contains the Colab notebook for training and evaluating the IMDB
 5. Evaluate the model using the provided evaluation metrics.
 6. Save and upload the model to Hugging Face.
 
-## Model Card
-[Link to Hugging Face model](https://huggingface.co/Minghui131/imdb-sentiment-classifier)
-[Link to GitHub](https://github.com/Minghui1314/NLP2024_Hugging_Face)
+##
+[Link to Hugging Face model] (https://huggingface.co/Minghui131/imdb-sentiment-classifier)
+[Link to GitHub] (https://github.com/Minghui1314/NLP2024_Hugging_Face)
