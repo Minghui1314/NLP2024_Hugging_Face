@@ -12,4 +12,5 @@ This repository contains the Colab notebook for training and evaluating the IMDB
 
 ##
 [Link to Hugging Face model] (https://huggingface.co/Minghui131/imdb-sentiment-classifier)
+
 [Link to GitHub] (https://github.com/Minghui1314/NLP2024_Hugging_Face)
