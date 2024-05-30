@@ -1,9 +1,15 @@
-# NLP2024_Hugging_Face
-## IMDB Sentiment Classifier
+# IMDB Sentiment Classifier
 
-This is an IMDB movie review sentiment classifier based on the DistilBERT model. It is trained using Hugging Face's Transformers library and the model is uploaded to the Hugging Face model library.
+This repository contains the Colab notebook for training and evaluating the IMDB sentiment classifier using a BERT-based model.
 
-### Links
+## How to Run
+1. Open the Colab notebook.
+2. Follow the instructions to install the necessary libraries.
+3. Download the IMDB dataset and preprocess the data.
+4. Train the model using the provided training script.
+5. Evaluate the model using the provided evaluation metrics.
+6. Save and upload the model to Hugging Face.
 
-- [Hugging Face Model Repository](https://huggingface.co/Minghui131/imdb-sentiment-classifier)
-- [GitHub Repository](https://github.com/Minghui1314/NLP2024_Hugging_Face/blob/main/lab2.ipynb)
+## Model Card
+[Link to Hugging Face model](https://huggingface.co/Minghui131/imdb-sentiment-classifier)
+[Link to GitHub](https://github.com/Minghui1314/NLP2024_Hugging_Face)
